@@ -26,5 +26,4 @@ export default function RootLayout({
 /*
 layout.tsxを置いた場所と、その配下はこのlayoutの影響を受ける
 appディレクトリ直下に置いた場合、全ページ適用と考えて良い。
-
 */
