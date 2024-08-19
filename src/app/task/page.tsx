@@ -1,5 +1,5 @@
 const Taskpage = () => {
-  return <div>Task  page</div>;
+  return <div>Task  page</div>
 };
 
 export default Taskpage;
